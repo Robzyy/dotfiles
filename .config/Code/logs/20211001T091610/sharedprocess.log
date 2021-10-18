@@ -1,0 +1,10 @@
+[2021-10-01 09:16:38.433] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-10-01 09:16:58.439] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-10-01 09:16:58.444] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-10-01 09:17:08.439] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-10-01 10:22:57.659] [sharedprocess] [info] Installing extension: radiolevity.search-lights
+[2021-10-01 10:22:59.197] [sharedprocess] [info] Downloaded extension: radiolevity.search-lights /home/robzyy/.config/Code/CachedExtensionVSIXs/radiolevity.search-lights-1.10.1
+[2021-10-01 10:22:59.251] [sharedprocess] [info] Extracted extension to /home/robzyy/.vscode/extensions/.6c937816-3dfd-44cd-ac54-86834cc9d493: radiolevity.search-lights
+[2021-10-01 10:22:59.292] [sharedprocess] [info] Renamed to /home/robzyy/.vscode/extensions/radiolevity.search-lights-1.10.1
+[2021-10-01 10:22:59.294] [sharedprocess] [info] Extracting completed. radiolevity.search-lights
+[2021-10-01 10:22:59.326] [sharedprocess] [info] Extension installed successfully: radiolevity.search-lights
